@@ -1,16 +1,24 @@
-## Hi there 👋
+# 백엔드 개발자 이동제입니다.
 
-<!--
-**move-je/move-je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Java & Spring 백엔드 3년차 개발자
+- 제조업 도메인 웹 서비스 및 API 서버 개발 경험
+- 더 나은 코드와 구조를 고민하는 개발자
 
-Here are some ideas to get you started:
+## Tech stack
+**Backend**
+Java 8/21 · Spring MVC 5.x 이상 · Tomcat 9/11 · MyBatis · Spring Boot(학습 중) · JPA(학습 중)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**DataBase**
+MySQL · Redis(학습 중)
+
+**Infra**
+Jenkins · Apache2 · Alibaba Cloud · Docker(학습 중)
+
+**Tools**
+SVN · IntelliJ IDEA · Git(학습 중)
+
+## 현재 목표
+- Spring Boot + JPA 사이드 프로젝트 개발
+- MSA 설계 역량 강화
+- 사이드 프로젝트 배포 및 운영 경험 축적
