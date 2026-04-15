@@ -7,7 +7,7 @@
 
 ## Tech stack
 **Backend**
-Java 8/21 · Spring MVC 5.x 이상 · Tomcat 9/11 · MyBatis · Spring Boot(학습 중) · JPA(학습 중)
+Java 8/21 · Spring MVC · Tomcat 9/11 · MyBatis · Spring Boot(학습 중) · JPA(학습 중)
 
 **DataBase**
 MySQL · Redis(학습 중)
@@ -16,7 +16,7 @@ MySQL · Redis(학습 중)
 Jenkins · Apache2 · Alibaba Cloud · Docker(학습 중)
 
 **Tools**
-SVN · IntelliJ IDEA · Git(학습 중)
+IntelliJ IDEA · Git · Claude Code
 
 ## 현재 목표
 - Spring Boot + JPA 사이드 프로젝트 개발
